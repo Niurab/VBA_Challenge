@@ -19,7 +19,7 @@ Refactoring also makes code more maintainable.
 Refactoring improves the logic of the code for future users
 Refactored codes make using less memory possible.
 
-###### Disadvantages
+##### Disadvantages
 You can potentially introduce bugs that your tests won't catch. 
 Refactoring makes developers write crappy code in the beginning under the pretext of doing refactoring later
 Expensive and time consuming
