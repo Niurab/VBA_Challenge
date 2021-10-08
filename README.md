@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Purpose of this analysis
+##### Purpose of this analysis
 
 In this project, we will be helping Steve – a new graduate in Finance analysis stocks for his parents who are passionate about green energy. Steve is concerned about diversifying his parent funds so he want to analysis a couple of green energy stocks in addition to DQ stock using an excel file containing the stock he will like to analyse. 
 
